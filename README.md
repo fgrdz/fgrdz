@@ -1,6 +1,6 @@
 ## Olá, eu sou Julio Figueiredo!
 
-- 🔭 Estudando
+- 🔭 Atualmente apenas estudando
 - 🌱 Aprendendo JavaScript
 - 📫 Para me contatar: https://www.instagram.com/_fgrdz/
 
