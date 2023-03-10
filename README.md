@@ -1,6 +1,5 @@
 ## Hi, I'm Julio! 
 
-- 🎓 I’m a Computer Science student at <a href="https://portal.ufcg.edu.br/">UFCG</a></em>
 - 🌱 I’m currently learning React
 - 📫 How to reach me: (https://www.linkedin.com/in/julio-alves-figueiredo-237401256/)
   
