@@ -1,22 +1,20 @@
-## Hi, I'm Nathan Andrade! 🦊
+## Hi, I'm Julio! 
 
 - 🎓 I’m a Computer Science student at <a href="https://portal.ufcg.edu.br/">UFCG</a></em>
-- 🌱 I’m currently learning NodeJS
-- ❤ I'm in love with Figma
-- 📫 How to reach me: https://www.linkedin.com/in/nathanandradehenriques/
-- 😄 Pronouns: He/Him; She/Her or They/Them 
+- 🌱 I’m currently learning React
+- 📫 How to reach me: (https://www.linkedin.com/in/julio-alves-figueiredo-237401256/)
   
 <div align="left"> 
-  <a href="mailto:nathan.henriques@ccc.ufcg.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/nathanandradehenriques/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="mailto:jfigueiredo07@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/julio-alves-figueiredo-237401256/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
 
 ##
   
   <div align="left">
-  <a href="https://github.com/Nathan4Andrade">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nathan4Andrade&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/fgrdz">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fgrdz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathan4Andrade&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
