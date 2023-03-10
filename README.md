@@ -1,10 +1,10 @@
 ## Hi, I'm Julio! 
 
 - 🌱 I’m currently learning React
-- 📫 How to reach me: (https://www.linkedin.com/in/julio-alves-figueiredo-237401256/)
+- 📫 How to reach me: https://www.linkedin.com/in/julio-alves-figueiredo-237401256/
   
 <div align="left"> 
-  <a href="mailto:jfigueiredo07@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:jfigueiredo07@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/julio-alves-figueiredo-237401256/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
