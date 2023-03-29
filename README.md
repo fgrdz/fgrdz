@@ -1,6 +1,6 @@
 ## Hi, I'm Julio! 
 
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning 
 - 📫 How to reach me: https://www.linkedin.com/in/julio-alves-figueiredo-237401256/
   
 <div align="center"> 
