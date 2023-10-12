@@ -35,5 +35,5 @@
 
   ##
 
-  [![An image of @_fgrdz's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/_fgrdz)](https://holopin.io/@_fgrdz)
+  
 
