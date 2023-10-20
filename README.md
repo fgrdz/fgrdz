@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning 
 - 📫 How to reach me: https://www.linkedin.com/in/julio-alves-figueiredo-237401256/
-- 🎓 I’m a Analysis and Systems Development
+- 🎓 I’m a Analysis and Systems Development student
   
 <div align="center"> 
   <a href="mailto:jfigueiredo07@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
