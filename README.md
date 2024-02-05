@@ -11,13 +11,8 @@
   
 </div>
 
-##
-  
-  <div align="center">
-  <a href="https://github.com/fgrdz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fgrdz&rank_icon=github&show_icons=true&theme=gruvbox_light&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fgrdz&layout=compact&langs_count=7&theme=gruvbox_light"/>
-</div>
+## Stacks 
+
 
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="fgrdz-Js"  src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
