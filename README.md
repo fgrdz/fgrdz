@@ -2,6 +2,7 @@
 
 - 🌱 I am Julio Figueiredo, a student and software developer passionate about technology. Currently, I work as a junior software engineer at Cox Automotive Brazil.
 - 🎓 I’m a Analysis and Systems Development student
+- Here's my website: https://portfolio-fgrdzs-projects.vercel.app/
 - 📫 How to reach me: 
   
 <div align="center"> 
