@@ -26,10 +26,12 @@
   <img align="center" alt="fgrdz-Js"  src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
 </div>
 
-## <div>
-  [![MongoDB Badge](https://images.credly.com/size/110x110/images/d8f7a9d6-dad9-40cc-b389-a343d2d72a9e/blob)](https://www.credly.com/)
-</div>
-##
-[![An image of @_fgrdz's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/_fgrdz)](https://holopin.io/@_fgrdz)
+<h2>🏅 Badges</h2>
+
+<p align="left">
+  <a href="https://www.credly.com/" target="_blank"><img src="https://images.credly.com/size/110x110/images/d8f7a9d6-dad9-40cc-b389-a343d2d72a9e/blob" alt="MongoDB Skill Badge" width="110" height="110"></a>&nbsp;&nbsp;
+  <a href="https://holopin.io/@_fgrdz" target="_blank"><img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG5leHg3dmUyMTcxOTN6amp0c2lvNXZqIiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" alt="Open Source Badge" width="110" height="110"></a>&nbsp;&nbsp;
+  <a href="https://holopin.io/@_fgrdz" target="_blank"><img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG16MW5neWQwMjM3bTN6am50c2V6Yng2IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" alt="Hacktoberfest Badge" width="110" height="110"></a>
+</p>
   
 
