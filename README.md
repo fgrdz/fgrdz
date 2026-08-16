@@ -7,7 +7,7 @@
   
 <div align="center"> 
   <a href="mailto:jfigueiredo07@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/julio-alves-figueiredo-237401256/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="[https://www.linkedin.com/in/julio-alves-figueiredo-237401256/](https://www.linkedin.com/in/julio-figueiredo-237401256/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 ##  💻 Stacks 
